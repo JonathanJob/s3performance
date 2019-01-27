@@ -1,0 +1,1 @@
+Performance of S3 select vs ODBC RDS selects
